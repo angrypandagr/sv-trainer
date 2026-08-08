@@ -1,4 +1,4 @@
-const CACHE_NAME = 'sv-trainer-v1';
+const CACHE_NAME = 'sv-trainer-v2';
 const CORE = [
   './',
   './index.html',
